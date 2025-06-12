@@ -32,7 +32,7 @@ CompTia Net+
 
     
 Projects:
-Azure VM 
+Azure VM Wireshark Network Monitoring Lab
 Detection Lab
 SOC Automation Project## Hi there 👋
 
