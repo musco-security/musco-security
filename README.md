@@ -26,7 +26,9 @@ Endpoint
 SIEM
   
 Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+Course Careers Information Technology
+CompTia A+
+CompTia Net+
 
     
 Projects:
